@@ -1,0 +1,33 @@
+C:\Users\sonic\source\repos\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\sonic\source\repos\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\sonic\source\repos\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.Form1.resources
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.Form2.resources
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.cache
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\sonic\source\repos\LOGIN\LOGIN\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sonic\source\repos\LOGIN\LOGIN\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.CopyComplete
+C:\Users\sonic\source\repos\LOGIN\LOGIN\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\sonic\source\repos\LOGIN\LOGIN\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\sonic\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.Form3.resources
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.Form1.resources
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.Form2.resources
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.Form3.resources
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.cache
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.csproj.CopyComplete
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Rafael Ferreira\Desktop\TAREA4\ProgRama-LOGIN-master\LOGIN\obj\Debug\LOGIN.pdb
